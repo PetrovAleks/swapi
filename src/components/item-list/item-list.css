@@ -1,0 +1,7 @@
+.list-wrapper {
+	flex-basis: 400px;
+}
+
+.people-item {
+	cursor: pointer;
+}

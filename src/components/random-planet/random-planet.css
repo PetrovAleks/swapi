@@ -1,0 +1,20 @@
+.random_planet__img {
+	padding: 0;
+	margin: 0;
+	height: auto;
+	width: 210px;
+	display: block;
+	border-radius: 8px;
+}
+.wrapper-img {
+	width: 400px;
+}
+.wrapper-planet__text {
+	margin-left: 40px;
+}
+
+.list-group-item:hover,
+.list-group-item:focus {
+	color: black;
+	background-color: #ffe033;
+}

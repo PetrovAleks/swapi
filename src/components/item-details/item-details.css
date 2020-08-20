@@ -1,0 +1,11 @@
+.persone_details-img {
+	height: auto;
+	width: 350px;
+	display: block;
+	object-fit: cover;
+	border-radius: 8px;
+}
+.persone_details-wrapper {
+	margin-left: auto;
+	flex-basis: 700px;
+}
